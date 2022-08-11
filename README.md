@@ -1,5 +1,4 @@
 # Heart-Disease-Prediction
-Heart-Disease-Prediction
 
 Python Libraries: Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.
 
