@@ -1,7 +1,7 @@
 # Heart-Disease-Prediction
 Heart-Disease-Prediction
 
-Python Libraries Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.
+Python Libraries: Python libraries are a collection of functions and methods that allows us to perform many actions without writing the code.
 
 NumPy: NumPy is a very popular python library for large multi-dimensional array and matrix processing, with the help of a large collection of high-level mathematical functions. It is very useful for fundamental scientific computations in Machine Learning.
 
